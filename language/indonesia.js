@@ -2,7 +2,7 @@ exports.private = () =>{
 	return`Fitur hanya bisa di gunakan di private chat`
 	}
 exports.wait = () => {
-    return `*Screaping Metadata *. . .`
+    return `*Screaping Metadata* . . .`
 }
 
 exports.ok = () => {
@@ -88,7 +88,9 @@ exports.notNum = (q) => {
 exports.menunya = (salam, pushname) =>{
 	return`Hai kak ${pushname} 👋 selamat ${salam} , 
 saya Adalah DEFFBOTz-MD Yang Baru Rilis, 
-Jika Menemukan Bug Atau Error Silahkan Lapor Ke Owner Yah Kak.
+BOT Ini Merupakan Codingan Alphabot-MD Jadi Sama Dengan Script AlphaBot-MD by zeeone ofc.
+BOT ini Juga Masih Dalam Tahap Uji Coba, 
+JadiJika Menemukan Bug Atau Error Silahkan Lapor Ke Owner Yah Kak.
 `
 }
 exports.listMenu = (time, salam, pushname, prefix) => {
@@ -703,7 +705,6 @@ Arigatou Gozaimasu! Untuk kalian user ramah dan Beberapa orang yg Support gw dal
 }
 exports.welcome = () =>{
 	return`╭─❒ Intro Dulu Yah Kack🙏
-	
 ┌ 𝐍𝐚𝐦𝐚:
 ├ 𝐔𝐦𝐮𝐫:
 ├ 𝐀𝐬𝐚𝐥:
